@@ -11,3 +11,6 @@ If you use this technical report, plesae cite the following manuscript: <br>
 
 @article{kashefi2023ChatGPT, <br>
 author = {}
+
+**Questions?** <br>
+If you have any questions or need assistance, please do not hesitate to contact Ali Kashefi (kashefi@stanford.edu) via email.
