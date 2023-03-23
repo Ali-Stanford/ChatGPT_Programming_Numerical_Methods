@@ -7,10 +7,13 @@ ChatGPT is a large language model trained by OpenAI. In this technical report, w
 
 **Citation** <br>
 If you use this technical report, plesae cite the following manuscript: <br>
-**[ChatGPT for Programming Numerical Methods](https://)**
+**[ChatGPT for Programming Numerical Methods](https://arxiv.org/pdf/2303.12093.pdf)**
 
 @article{kashefi2023ChatGPT, <br>
-author = {}
+title={ChatGPT for Programming Numerical Methods}, <br>
+author={Kashefi, Ali and Mukerji, Tapan}, <br>
+journal={arXiv preprint arXiv:2303.12093}, <br>
+year={2023}} <br>
 
 **Questions?** <br>
 If you have any questions or need assistance, please do not hesitate to contact Ali Kashefi (kashefi@stanford.edu) via email.
