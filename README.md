@@ -1,5 +1,8 @@
 # ChatGPT for Programming Numerical Methods
-Programming numerical methods using ChatGPT: successes, failures, and challenges
+**Programming numerical methods using ChatGPT: successes, failures, and challenges**
+
+**Authors:** Ali Kashefi (kashefi@stanford.edu) & Tapan Mukerji (mukerji@stanford.edu)<br>
+**Version:** 1.0 <br>
 
 **Abstract**
 
