@@ -15,11 +15,11 @@ ChatGPT is a large language model recently released  by the OpenAI company. In t
 If you use this technical report, plesae cite the following manuscript: <br>
 **[ChatGPT for Programming Numerical Methods](https://arxiv.org/pdf/2303.12093.pdf)**
 
-@article{kashefi2023ChatGPT, <br>
-title={ChatGPT for Programming Numerical Methods}, <br>
-author={Kashefi, Ali and Mukerji, Tapan}, <br>
-journal={arXiv preprint arXiv:2303.12093}, <br>
-year={2023}} <br>
+@article{kashefi2023chatgpt, <br>
+  title={ChatGPT for Programming Numerical Methods}, <br>
+  author={Kashefi, Ali and Mukerji, Tapan}, <br>
+  journal={arXiv preprint arXiv:2303.12093}, <br>
+  year={2023}} <br>
 
 **Questions?** <br>
 If you have any questions or need assistance, please do not hesitate to contact Ali Kashefi (kashefi@stanford.edu) via email.
