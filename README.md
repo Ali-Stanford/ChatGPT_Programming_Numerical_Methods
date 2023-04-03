@@ -5,7 +5,7 @@
 **[ChatGPT for Programming Numerical Methods](https://arxiv.org/pdf/2303.12093.pdf)**
 
 **Authors:** Ali Kashefi (kashefi@stanford.edu) & Tapan Mukerji (mukerji@stanford.edu)<br>
-**Version:** 1.0 <br>
+**Version:** 2.0 <br>
 
 **Citation** <br>
 If you use this technical report, plesae cite the following manuscript: <br>
