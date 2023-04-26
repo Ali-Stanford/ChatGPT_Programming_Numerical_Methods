@@ -9,10 +9,10 @@ t_final = 0.2; % Final time
 % Initial conditions
 x = linspace(0, L, N);
 rho = ones(1, N);
-rho(x<0.5) = 0.125;
+rho(x>0.5) = 0.125;
 u = zeros(1, N);
 p = ones(1, N);
-p(x<0.5) = 0.1;
+p(x>0.5) = 0.1;
 E = p/(gamma-1) + 0.5*rho.*u.^2;
 
 % Godunov method
