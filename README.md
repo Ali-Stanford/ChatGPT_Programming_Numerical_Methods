@@ -16,8 +16,7 @@ If you use this research article, plesae cite the following manuscript: <br>
       author={Kashefi, Ali and Mukerji, Tapan}, 
       journal={Journal of Machine Learning for Modeling and Computing},
       year={2023},
-      publisher={Begel House Inc.}
-    }
+      publisher={Begel House Inc.}}
 
 **Abstract**
 
