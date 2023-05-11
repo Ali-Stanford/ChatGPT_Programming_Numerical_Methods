@@ -12,10 +12,11 @@ If you use this technical report, plesae cite the following manuscript: <br>
 **[ChatGPT for Programming Numerical Methods](https://arxiv.org/pdf/2303.12093.pdf)**
 
 @article{kashefi2023chatgpt, <br>
-  title={ChatGPT for Programming Numerical Methods}, <br>
+  title={Chatgpt for programming numerical methods}, <br>
   author={Kashefi, Ali and Mukerji, Tapan}, <br>
-  journal={arXiv preprint arXiv:2303.12093}, <br>
-  year={2023}} <br>
+  journal={Journal of Machine Learning for Modeling and Computing}, <br>
+  year={2023}, <br>
+  publisher={Begel House Inc.}} <br>
 
 **Abstract**
 
