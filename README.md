@@ -1,4 +1,6 @@
 # ChatGPT for Programming Numerical Methods
+![pic](./image.png)
+
 **Programming numerical methods using ChatGPT: successes, failures, and challenges**
 
 **Research Article:**
