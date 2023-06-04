@@ -10,7 +10,7 @@
 **Version:** 2.0 <br>
 
 **Citation** <br>
-If you use this research article, plesae cite the following manuscript: <br>
+If you use this research article, plesae cite the following journal paper: <br>
 **[ChatGPT for Programming Numerical Methods](https://arxiv.org/pdf/2303.12093.pdf)**
 
     @article{kashefi2023chatgpt,
