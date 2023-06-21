@@ -13,12 +13,14 @@
 If you use this research article, plesae cite the following journal paper: <br>
 **[ChatGPT for Programming Numerical Methods](https://arxiv.org/pdf/2303.12093.pdf)**
 
-    @article{kashefi2023chatgpt,
-      title={Chatgpt for programming numerical methods}, 
-      author={Kashefi, Ali and Mukerji, Tapan}, 
-      journal={Journal of Machine Learning for Modeling and Computing},
-      year={2023},
-      publisher={Begel House Inc.}}
+     @article{kashefi2023chatgpt,
+       title={Chatgpt for programming numerical methods},
+       author={Kashefi, Ali and Mukerji, Tapan},
+       journal={Journal of Machine Learning for Modeling and Computing},
+       volume={4},
+       number={2},
+       year={2023},
+       publisher={Begel House Inc.}}
 
 **Abstract**
 
