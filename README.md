@@ -3,14 +3,15 @@
 
 **Programming numerical methods using ChatGPT: successes, failures, and challenges**
 
-**Research Article:**
-**[ChatGPT for Programming Numerical Methods](https://arxiv.org/pdf/2303.12093.pdf)**
+**Research Article:**<br>
+**[ChatGPT for Programming Numerical Methods](https://www.dl.begellhouse.com/journals/558048804a15188a,498820861ef102d2,1255e053242c9a40.html)** <br>
+This is also the **[arXiv](https://arxiv.org/pdf/2303.12093.pdf)** version. <br>
 
 **Authors:** Ali Kashefi (kashefi@stanford.edu) & Tapan Mukerji (mukerji@stanford.edu)<br>
 **Version:** 2.0 <br>
 
 **Citation** <br>
-If you use this research article, plesae cite the following journal paper: <br>
+If you use this research article, please cite the following journal paper: <br>
 **[ChatGPT for Programming Numerical Methods](https://arxiv.org/pdf/2303.12093.pdf)**
 
      @article{kashefi2023chatgpt,
