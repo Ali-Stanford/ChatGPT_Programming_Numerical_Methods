@@ -12,7 +12,7 @@ This is also the **[arXiv](https://arxiv.org/pdf/2303.12093.pdf)** version. <br>
 
 **Citation** <br>
 If you use this research article, please cite the following journal paper: <br>
-**[ChatGPT for Programming Numerical Methods](https://arxiv.org/pdf/2303.12093.pdf)**
+**[ChatGPT for Programming Numerical Methods](https://www.dl.begellhouse.com/journals/558048804a15188a,498820861ef102d2,1255e053242c9a40.html)**
 
      @article{kashefi2023chatgpt,
        title={Chatgpt for programming numerical methods},
